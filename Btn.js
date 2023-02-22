@@ -31,7 +31,7 @@ class Btn extends React.Component{
      }
      changeAll=()=>
      {
-        this.setState({a:"3" , b:"5" , c:"3" , d:"7" , e:"8"})
+        this.setState({a:"3" , b:"5" , c:"3" , d:"7"})
      }
     render()
     {
