@@ -1,6 +1,6 @@
 import React from "react";
 import {useState,useEffect} from 'react';
-import video from './smoke.mp4';
+
 
 function Video(){
     const [a,setA]=useState(0);
